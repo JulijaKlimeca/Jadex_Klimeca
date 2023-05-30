@@ -1,0 +1,34 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: bcutil-jdk15on-1.69.jar asm-util-9.1.jar nanohttpd-websocket
+ -2.3.1.jar jna-5.8.0.jar junit-4.13.2.jar opentelemetry-semconv-1.16.0-
+ alpha.jar jadex-kernel-bpmn-4.0.267.jar nano-cuckoo-1.0.0.jar jadex-env
+ ironment-envsupport-4.0.267.jar jadex-kernel-model-bpmn-4.0.267.jar jad
+ ex-applications-bdiv3-4.0.267.jar jadex-kernel-microservice-4.0.267.jar
+  opentelemetry-sdk-common-1.16.0.jar jadex-serialization-json-4.0.267.j
+ ar jcommon-1.0.15.jar asm-tree-9.1.jar jadex-kernel-bdiv3-4.0.267.jar o
+ kio-jvm-2.8.0.jar jadex-serialization-binary-4.0.267.jar jadex-transpor
+ t-websocket-4.0.267.jar opentelemetry-sdk-trace-1.16.0.jar annotations-
+ 3.0.0.jar jadex-util-nativetools-4.0.267.jar hamcrest-core-1.3.jar okht
+ tp-4.9.3.jar minimal-json-0.9.4.jar bcpkix-jdk15on-1.69.jar jadex-platf
+ orm-bridge-4.0.267.jar jadex-kernel-component-4.0.267.jar annotations-1
+ 3.0.jar lz4-1.3.0.jar jadex-tools-base-4.0.267.jar opentelemetry-api-1.
+ 16.0.jar eddsa-0.2.0.jar opentelemetry-sdk-logs-1.16.0-alpha.jar asm-an
+ alysis-9.1.jar opentelemetry-exporter-otlp-1.16.0.jar kotlin-stdlib-com
+ mon-1.4.10.jar opentelemetry-sdk-1.16.0.jar jadex-serialization-xml-4.0
+ .267.jar jadex-rules-eca-4.0.267.jar jadex-kernel-micro-4.0.267.jar jad
+ ex-util-javaparser-4.0.267.jar activation-1.1.jar asm-9.1.jar jadex-tra
+ nsport-tcp-4.0.267.jar de.huxhorn.sulky.3rdparty.jlayer-1.0.jar jadex-s
+ erialization-traverser-4.0.267.jar jadex-util-concurrent-4.0.267.jar op
+ entelemetry-exporter-otlp-common-1.16.0.jar jadex-util-commons-4.0.267.
+ jar jadex-transport-base-4.0.267.jar commons-daemon-1.0.10.jar bcprov-j
+ dk15on-1.69.jar opentelemetry-sdk-metrics-1.16.0.jar jadex-kernel-appli
+ cation-4.0.267.jar jadex-kernel-base-4.0.267.jar nv-websocket-client-2.
+ 3.jar jadex-platform-base-4.0.267.jar nanohttpd-2.3.1.jar jadex-util-se
+ curity-4.0.267.jar snappy-java-1.1.2.6.jar jadex-distribution-minimal-4
+ .0.267.jar jcalendar-1.3.2.jar jna-platform-4.5.2.jar jadex-transport-r
+ elay-4.0.267.jar xz-1.5.jar jadex-tools-base-swing-4.0.267.jar mail-1.4
+ .5.jar opentelemetry-context-1.16.0.jar jadex-util-bytecode-4.0.267.jar
+  jfreechart-1.0.12.jar jadex-util-gui-4.0.267.jar kotlin-stdlib-1.4.10.
+ jar
+

@@ -1,0 +1,24 @@
+plugins {
+    id 'java'
+}
+
+group = 'org.example'
+version = '1.0-SNAPSHOT'
+def jadex_version = "4.0.267"
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation group: 'org.activecomponents.jadex', name: 'jadex-kernel-micro', version: '4.0.267'
+    implementation group: 'org.activecomponents.jadex', name: 'jadex-applications-bdiv3', version: '4.0.267'
+    implementation 'org.activecomponents.jadex:jadex-distribution-minimal:' + jadex_version
+
+    implementation 'org.activecomponents.jadex:jadex-kernel-bdiv3:'+jadex_version
+
+}
+
+test {
+    useJUnitPlatform()
+}
